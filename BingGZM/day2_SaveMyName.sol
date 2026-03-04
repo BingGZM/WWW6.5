@@ -21,5 +21,5 @@ contract SaveMyName{
     bio = _bio;
     return(name,bio);
   }
-
+//commit again version with the right naming?
 }
