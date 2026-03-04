@@ -30,5 +30,6 @@ contract ClickCounter{
     function clickMultiple(uint256 times) public {
         counter += times; // 直接加法，Solidity 0.8.x 会自动检查溢出
     }
+    //commit again version with the right naming?
    
 }
